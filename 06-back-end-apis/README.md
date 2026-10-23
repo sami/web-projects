@@ -1,6 +1,6 @@
-# Back-End Development and APIs
+# Back-end and APIs
 
-Certification projects for the Back-End Development and APIs certification. Each project gets its own folder with a README explaining what it does, how it works and what I learned.
+Each project has its own folder with a README explaining what it does, how it works and what I learned building it.
 
 | Project | Status | Live demo | Notes |
 | --- | --- | --- | --- |
@@ -9,5 +9,3 @@ Certification projects for the Back-End Development and APIs certification. Each
 | Timestamp Microservice | Not started | | |
 | Chat App | Not started | | |
 | Family Movie Watchlist API | Not started | | |
-
-Certificate: not yet claimed

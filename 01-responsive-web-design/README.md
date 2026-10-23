@@ -1,6 +1,6 @@
-# Responsive Web Design
+# Responsive web design
 
-Certification projects for the Responsive Web Design certification. Each project gets its own folder with a README explaining what it does, how it works and what I learned.
+Each project has its own folder with a README explaining what it does, how it works and what I learned building it.
 
 | Project | Status | Live demo | Notes |
 | --- | --- | --- | --- |
@@ -9,5 +9,3 @@ Certification projects for the Responsive Web Design certification. Each project
 | Book Inventory App | Not started | | |
 | Technical Documentation Page | Not started | | |
 | Product Landing Page | Not started | | |
-
-Certificate: not yet claimed
